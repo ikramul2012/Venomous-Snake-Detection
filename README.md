@@ -1,7 +1,6 @@
+# 🐍Venomous Snake Detection Using Computational Neural Network
 
 This repository contains complete resources for NNFLL Project (Dataset Link : https://data.mendeley.com/datasets/28r5f3vmrp/2)
-
-🐍Venomous Snake Detection Using Computational Neural Network
 
 This project presents a learning system designed for the precise recognition of highly venomous snake species in Bangladesh, an essential measure, for providing proper antivenom therapy and lowering snakebite death rates.
 
