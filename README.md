@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Project Title
+
 This repository contains complete resources for NNFLL Project (Dataset Link : https://data.mendeley.com/datasets/28r5f3vmrp/2)
 
 🐍Venomous Snake Detection Using Computational Neural Network
