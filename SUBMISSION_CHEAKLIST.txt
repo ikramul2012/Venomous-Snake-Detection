@@ -1,0 +1,10 @@
+Venomous Snake Detection Using Convolutional Neural Network
+This project focuses on detecting venomous snakes. In Bangladesh, snakebite envenoming is a serious public health issue. An estimated 1,200 people die annually, and 90% of fatal cases are caused by just three species. The main problem isn't the antivenom; it's the delayed or incorrect species identification by non-experts in rural areas. Time is venom, and rapid, accurate identification is life-saving.
+
+Final Project Submission Checklist :
+Final Report
+Code Files: ( .ipynb )
+Best_Model.h5
+Video Presentation
+Dataset- https://data.mendeley.com/datasets/28r5f3vmrp/2
+
